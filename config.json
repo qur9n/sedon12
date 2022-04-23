@@ -1,7 +1,7 @@
 {
-    "ip": "94.130.53.202",
-    "port": 28841,
-    "name": "Test",
+    "ip": "65.108.199.164",
+    "port": 13841,
+    "name": "TestBot",
     "auto-night-skip": "false",
     "join-msg": "",
     "join-msg-on": "false",
